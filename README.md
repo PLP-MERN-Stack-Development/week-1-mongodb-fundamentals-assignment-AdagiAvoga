@@ -45,3 +45,35 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [MongoDB University](https://university.mongodb.com/)
 - [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/) 
+
+# PLP Bookstore  - MongoDB Week 1 Assignment
+
+This project demonstrates basic and advanced MongoDB operations on a sample `books` collection using Node.js anfd MongoDB.
+
+---
+
+# Requirements
+Before running the scripts, make sure the following are installed on your system:
+- [Node.js](https://nodejs.org) - to run Javascript scripts
+- [MongoDB Community Server] (https://www.mongodb.com/try/download/community) (for local setup)
+- OR a [MongoDB Atlas] (https://www.mongodb.com/cloud/atlas) free cluster
+- [MongoDB Compass] (https://www.mongodb.com/try/download/compass) - to view your collections.
+
+---
+
+## Files
+| File                 | Description
+|----------------------|--------------------------------------------------|
+|`insert_books.js`      |Populates the `books` collection with sample data|
+|`queries.js`           |Contains MongoDBCRUD, aggregation and indexing queries |
+|`README.md`            |Instructions to set up and run the project        |
+|`screenshot.png`       |Screenshot of MongoDB Compass showing data        |
+
+---
+
+## Setup Instructions
+
+1. *Clone this repository:**
+```bash
+git clone <"https://github.com/PLP-MERN-Stack-Development/week-1-mongodb-fundamentals-assignment-AdagiAvoga.git">
+cd </Desktop/MERN/week1/week-1-mongodb-fundamentals-assignment-AdagiAvoga>
